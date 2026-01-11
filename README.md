@@ -68,8 +68,10 @@ This and all other lab assignments will simulate the engineering practices in a 
     git config --global user.email "your@email"
     ```
 
-10. (Recommended) Install [`VS Code`](https://code.visualstudio.com/) and read about:
-    - [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
+10. Install [`VS Code`](https://code.visualstudio.com/) and read about:
+    - [Basic Layout](https://code.visualstudio.com/docs/getstarted/userinterface#_basic-layout).
+    - [Activity Bar](https://code.visualstudio.com/api/ux-guidelines/activity-bar)
+    - [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)
     - [Terminal](https://code.visualstudio.com/docs/terminal/getting-started).
     - [Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview).
     - [Extension Marketplace](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace).
