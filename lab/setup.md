@@ -81,6 +81,10 @@ Open the [`Markdown` preview](https://code.visualstudio.com/docs/languages/markd
   1. [Open the `Command Palette`](./appendix/vs-code.md#open-the-command-palette).
   2. Run `Markdown: Open Preview to the Side`.
 
+## Change workspace settings
+
+Look at the [workspace settings](./appendix/vs-code.md#workspace-settings) and change them as necessary.
+
 ---
 
 ## Optional enhancements to make your life easier
