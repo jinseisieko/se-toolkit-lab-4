@@ -10,6 +10,7 @@
   - [Run `direnv allow`](#run-direnv-allow)
   - [Reset and reload environment](#reset-and-reload-environment)
   - [Reload the `VS Code Terminal`](#reload-the-vs-code-terminal)
+  - [Check tool versions](#check-tool-versions)
 
 ## What is `direnv`
 
@@ -25,6 +26,7 @@ Complete these steps:
 6. [Run `direnv allow`](#run-direnv-allow).
 7. [Reset and reload environment](#reset-and-reload-environment).
 8. [Reload the `VS Code Terminal`](#reload-the-vs-code-terminal).
+9. [Check tool versions](#check-tool-versions).
 
 ### Install `direnv`
 
@@ -114,3 +116,32 @@ Update the environment in which [`VS Code` extensions](./vs-code.md#extensions) 
    ...
    ```
 
+### Check tool versions
+
+1. Check the `uv` version:
+
+   [Run using the `VS Code Terminal`](./vs-code.md#run-a-command-using-the-vs-code-terminal):
+
+   ```terminal
+   uv --version
+   ```
+
+   The output should be:
+
+   ```terminal
+   uv 0.10.4
+   ```
+
+2. Check the `node` version:
+
+   [Run using the `VS Code Terminal`](./vs-code.md#run-a-command-using-the-vs-code-terminal):
+
+   ```terminal
+   node --version
+   ```
+
+   The output should be:
+
+   ```terminal
+   v22.22.0
+   ```
