@@ -27,11 +27,11 @@ Wiki files are **reference documents** — one file per tool or concept. They ar
 
 <h2>Table of contents</h2>
 
-- [What is `<Tool or Concept Name>`](#what-is-tool-or-concept-name)
+- [What is `<tool or concept name>`](#what-is-tool-or-concept-name)
 - [Section 2](#section-2)
 - ...
 
-## What is `<Tool or Concept Name>`
+## What is `<tool or concept name>`
 
 <1–3 sentences explaining what this tool or concept is and how it is used in this project.>
 
@@ -49,7 +49,7 @@ Docs:
 ### Key rules
 
 - Each section is self-contained and linkable (task docs link to `wiki/<file>.md#<section>`).
-- Start every wiki file with a `## What is <Tool>` section that defines the tool/concept in 1–3 sentences and includes a link to official docs.
+- Start every wiki file with a `## What is <tool or concept>` section that defines the tool/concept in 1–3 sentences and includes a link to official docs. The heading may use natural phrasing (articles, singular/plural) that differs from the H1 title — e.g., `# Computer Networks` → `## What is a computer network`.
 - Provide both explanation and how-to instructions.
 - Link to other wiki sections whenever a concept appears for the first time in a section (see [Links and cross-references](./common.md#48-links-and-cross-references)).
 - Use `<h2>Table of contents</h2>` (HTML) so the ToC heading itself doesn't appear in the auto-generated ToC.
